@@ -1,0 +1,1112 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="mobile-agent" content="format=html5;url=https://m.tuandai.com/" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.tuandai.com/" /><title>
+【珠海】某装修设计有限公司个人股东短期借款【2】-团贷网
+</title><link rel="dns-prefetch" href="//image.tuandai.com" /><link rel="dns-prefetch" href="//js.tuandai.com" /><link rel="dns-prefetch" href="//vip.tuandai.com" /><link rel="dns-prefetch" href="//hd.tuandai.com" /><link rel="dns-prefetch" href="//bbs.tuandai.com" /><meta property="qc:admins" content="3542563377645164116375" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="//js.tuandai.com/images/default/favicon.ico?v=20150513" />
+<link rel="stylesheet" href="//js.tuandai.com/styles/base20151225.css?v=20170405001" />
+<link rel="stylesheet" href="//js.tuandai.com/styles/public20151225.css?v=2017022701" /><link rel="stylesheet" href="//js.tuandai.com/styles/member/Bank/xiamen-bank.css?v=2017022701" /><link rel="stylesheet" href="//js.tuandai.com/styles/cgt/cgt20161107.css?v=2017022701" />
+<meta name="keywords" content="P2P理财,投资理财" />
+<meta name="description" content="团贷网P2P网贷平台提供安全、高收益的投资理财产品，优秀的风控团队和五心安全设计，保障账户信息资金安全，让用户网上投资理财更放心。" />
+<link rel="stylesheet" type="text/css" href="//js.tuandai.com/styles/investlist/invest_dialog.css?v=20150221012" />
+<link href="//js.tuandai.com/styles/investlist/NewBorrowDetail.css?v=20170323001" rel="stylesheet" type="text/css" />
+<link href="//js.tuandai.com/styles/investlist/invest_div.css?v=20160506001" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="header">
+<div class="t-b  t-b-w lh40 bgff f12 fst cl">
+<div class="w1200 h40 auto g6">
+<div class="right-side  r inline-block-debug">
+<div class="inline-block-debug c-poi-a" id="topinfo">
+<a href="javascript:login();" class="reg">登录</a><span>|</span>
+<a href="javascript:register();" class="reg">注册</a><span>|</span>
+</div>
+<a rel="nofollow" href="http://hd.tuandai.com/web/Invitation_sec/index.aspx">邀请有礼</a><span>|</span>
+<a rel="nofollow" href="http://info.tuandai.com/help/index.html" target="_blank">帮助中心</a><span>|</span>
+<a rel="nofollow" href="/activity/index.aspx" target="_blank">活动专题</a>
+<span>|</span>
+<a href="https://bbs.tuandai.com" target="_blank">社区</a><span>|</span>
+<span class="rel member-list z1">
+<i class="down-arrow arrow"></i>
+<ul class="abs z1  ">
+<li>
+<a rel="nofollow" href="http://vip.tuandai.com" target="_blank" style="display: block" class="member-link"><i class="icon a"></i>会员中心</a>
+</li>
+<li class="mission " style="display: none"><a rel="nofollow" href="http://hd.tuandai.com/web/newhand/gonglve.aspx" target="_blank">团币任务</a></li>
+</ul>
+</span>
+<a rel="nofollow" href="http://hd.tuandai.com/web/tuandaiAppNew/index.aspx" target="_blank" class="app  icon  mr10  inline-block-debug">&nbsp;</a>
+<div class="weixin icon   mr10  rel z5   inline-block-debug c-poi">
+&nbsp;
+<div class="ewm   p20 abs z5" style="display: none">
+<i class="arrow icon abs db zx2"></i>
+</div>
+</div>
+<div class="sina icon   inline-block-debug c-poi" onclick="javascript:window.open('http://weibo.com/tuandai');"></div>
+</div>
+<div class="left-side">
+<i class="icon dib phone vm  lh0">&nbsp;</i><span class="ml5">客服热线：400-6410-888（9:00～22:00）</span>
+</div>
+</div>
+</div>
+<div class="nav-w bgfff">
+<div class="nav-box auto w1200 fix">
+<div class="r rel tc  slid z3">
+<dl class="abs i-b-d vt about-us r0" id="myaccountScroll">
+<dt><a rel="nofollow" href="/member/account_default.aspx"><i class="account-icon i-b-d icon vm"></i>我的账户</a></dt>
+</dl>
+</div>
+<div class="nav r">
+<ul>
+<li class="nav-t">
+<a href="/">首页</a>
+</li>
+<li class="nav-t w130">
+<div class="r rel tc  slid z3 r ">
+<dl class="abs i-b-d vt guarantee r0">
+<dt><a href="/pages/weplan/welist.aspx">P2P<i class="icon arrow i-b-d vm"></i></a></dt>
+<dd>
+<a href="/pages/weplan/welist.aspx" target="_blank">智能投资</a>
+</dd>
+<dd>
+<a href="/pages/invest/invest_list.aspx" target="_blank">散标专区</a>
+</dd>
+</dl>
+</div>
+</li>
+<li class="nav-t w130">
+<div class="r rel tc  slid z3 r ">
+<dl class="abs i-b-d vt guarantee r0">
+<dt><a href="https://dq.tuandai.com/pages/weplan/weayb_list.aspx">定期<i class="icon arrow i-b-d vm"></i></a></dt>
+<dd>
+<a href="https://dq.tuandai.com/pages/weplan/weayb_list.aspx">安盈计划</a>
+</dd>
+<dd>
+<a href="https://dq.tuandai.com/pages/RegularFinancial/dqlclist.aspx">安盈宝</a>
+</dd>
+<dd>
+<a href="https://dq.tuandai.com/pages/invest/dqzqzr_list.aspx">定期转让</a>
+</dd>
+</dl>
+</div>
+</li>
+<li class="nav-t">
+<a rel="nofollow" href="http://hd.tuandai.com/web/newhand/classroom.aspx?tdsource=pcnewguide">新手指引</a>
+</li>
+<li class="nav-t w130">
+<div class="r rel tc  slid z3 r ">
+<dl class="abs i-b-d vt guarantee r0">
+<dt><a rel="nofollow" href="http://news.tuandai.com/about_us/guarantee.aspx?mark=1">信息披露<i class="icon arrow i-b-d vm"></i></a></dt>
+<dd>
+<a rel="nofollow" href="http://news.tuandai.com/about_us/guarantee.aspx?mark=1">安全保障</a>
+</dd>
+<dd>
+<a rel="nofollow" href="http://hd.tuandai.com/web/20161124Quality/index.aspx?tdsource=pcbanner" target="_blank">质保服务</a>
+</dd>
+<dd>
+<a rel="nofollow" href="http://news.tuandai.com/about_us/report.aspx?mark=3">运营报表</a>
+</dd>
+<dd>
+<a rel="nofollow" href="http://hd.tuandai.com/web/20160330/Index.aspx?tdsource=pcbanner" target="_blank">平台数据</a>
+</dd>
+<dd>
+<a rel="nofollow" href="http://news.tuandai.com/about_us/regulatory.aspx?mark=17">监管法规</a>
+</dd>
+<dd>
+<a rel="nofollow" href="http://news.tuandai.com/about_us/platform.aspx?mark=8">关于我们</a>
+</dd>
+</dl>
+</div>
+</li>
+<li class="nav-t">
+<a href="/pages/borrow/index.aspx">我要借款</a>
+</li>
+</ul>
+</div>
+<a href="/" class="logo dib l">
+<img src="//js.tuandai.com/images/default/logo.png" alt="团贷网" /></a>
+<div class="index-bd">
+<ul class="index_slider" style="bottom: 0px">
+<li>
+<img src="//image.tuandai.com/newfile/image/2017/20170401/20170401180641_6813.png" alt="光影侠" /></li>
+</ul>
+<ul class="index_num" style="display: none;">
+<li>
+1
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="position w1000 auto">
+您当前所在的位置： <a href="/">团贷网</a> > <a href="/pages/invest/invest_list.aspx">我要投资</a>
+> 借款详情
+</div>
+<div class="bid_invest_inf clearfloat">
+<div class="bid_inf_content clearfloat">
+<div class="bid_inf_main" style="height: 253px;">
+<div class="box_dw">
+<i class="tao-biao icon shang"></i>
+<i class="tao-biao icon bao"></i>
+</div>
+<div class="bid_inf_title box_dw">
+<a style="text-decoration: none;" title="【珠海】某装修设计有限公司个人股东短期借款【2】">
+【珠海】某装修设计有限公司个人股东短期借款【2】</a>
+</div>
+<div class="bid_inf_line box_dw">
+</div>
+<div class="bid_inf_sum box_dw c_484848">
+<i class="c_999">借款总额</i><br />
+<span><b class="c_ff7506">
+900,000.00</b>元</span>
+</div>
+<div class="bid_inf_rate box_dw c_484848">
+<i class="c_999 rel showtips-box">预期年化利率
+<span class="lv-we-showtips-box">
+<span class="lv-we-showtips lv-showtips-prom" style="display: none;">
+本平台所有项目预期年化利率是在参考同类型项目历史数据得出，并不代表实际收益，市场有风险，投资需谨慎。
+<i class="lv-arrow-tip"></i>
+</span>
+</span>
+</i><br />
+<span><b class="c_ff7506">
+13</b>%</span>
+</div>
+<div class="bid_inf_time box_dw c_484848">
+<i class="c_999">还款期限</i><br />
+<span><b class="c_ff7506">
+12</b>个月</span>
+</div>
+<div class="bid_inf_unit box_dw c_484848">
+<span class="c_999">出借单位：</span>200
+元
+</div>
+<div class="bid_inf_incopies box_dw c_484848">
+<span class="c_999">借入份数：</span>4500
+份
+</div>
+<div class="bid_inf_outcopies box_dw c_484848">
+<span class="c_999">剩余份数：</span>0
+份
+</div>
+<div class="bid_inf_way bid_inf_way2 box_dw c_484848">
+<span class="c_999">还款方式：</span>每月付息<span id="td_RepaymentType" attrid="2"></span>
+</div>
+<div class="bid_inf_progress bid_inf_progress2 box_dw">
+<span class="c_999">保障方式：</span>质保服务专款+志诚担保
+</div>
+<div class="bid_inf_resttime box_dw c_484848">
+<span class="c_999">剩余时间：</span>
+<span id="timeSet" class="timeSet" enddate="2017/4/7 10:00:10" startdate="2017/2/5 12:37:45" serverdate="2017/4/7 10:00:10" style="color: none;">已结束</span>
+</div>
+</div>
+</div>
+<div class="bid_inf_right" style="height: auto;">
+<div class="bid_finish">
+<p class="pl10">
+<img src="//js.tuandai.com/images/investlist/invest_detail/finish2.png" />
+</p>
+<p class="pl10 c_484848">
+<span class="c_999">完成时间：</span>2017-02-05 13:08<br />
+<span class="c_999">投标人数：</span>74人
+</p>
+<p class="pl10 pt5">
+<a href="/member/AutoTender/AutoTenderList.aspx">抢不到标？设自动投标，抢标快人一步！</a>
+</p>
+</div>
+</div>
+</div>
+<div class="bid_invest_nav">
+<ul>
+<li><a class="n1 bid_nav bid_nav2 n1-selected" onclick="getTager('.a1');" href="javascript:void(0);">借款详情</a></li>
+<li><a class="n2 bid_nav bid_nav2" onclick="getTager('.a2');" href="javascript:void(0);">借款人信息</a></li>
+<li><a class="n3 bid_nav bid_nav2" onclick="getTager('.a3');" href="javascript:void(0);">投标记录</a></li>
+<li><a class="n4 bid_nav bid_nav2 bid_navlast" onclick="getTager('.a4');" href="javascript:void(0);">还款记录</a></li>
+</ul>
+</div>
+<div class="bid_ensure_box clearfloat a1" id="a1" name="a1">
+<dl class="clearfloat">
+<dt class="ensure_t01"></dt>
+<dd class="clearfloat">
+<h4>项目描述</h4>
+<p>
+借款人是珠海市某装修设计有限公司的股东，2003年入股该公司，占股30%。该公司主要从事室内外装潢、设计；木制品加工；五金建材的批发、零售；园林绿化，市政工程等。借款人个人月均收入约5万元。据银行征信系统显示，借款人信用记录良好。
+<br />
+<br />
+主要用于短期流动资金周转。
+</p>
+</dd>
+</dl>
+<dl class="clearfloat">
+<dt class="ensure_t02"></dt>
+<dd>
+<h4>还款保障措施</h4>
+<p>
+借款人提供名下在珠海市的1处房产为本次团贷网授信的反担保物，建筑面积在170.69平方米，经评估估值，现市值约495万元。由我方风控部门调查借款人目前收入状况及房产状态后，现借款人获得团贷网综合授信180万元作为短期流动资金周转。
+<br />
+<br />
+综合评估借款人整体持续收入情况、核实用途及风险防范在可控范围内后，签署借款合同，并办理相关借贷手续以及签署相关服务协议。
+</p>
+</dd>
+</dl>
+<dl class="clearfloat">
+<dt class="ensure_t03"></dt>
+<dd>
+<h4>相关资料展示</h4>
+<div class="stages_date_box">
+<div class="stages_slideGroup">
+<div class="stages_slideBox">
+<div class="bd">
+<div class="ulWrap">
+<ul>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','9449c1c3-764c-40dd-bd68-4c718608d457');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144324_8767_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','9449c1c3-764c-40dd-bd68-4c718608d457');">
+身份证-1</a>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','0b4609bd-3564-4acc-822a-45ec9d3e4fd8');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144327_0607_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','0b4609bd-3564-4acc-822a-45ec9d3e4fd8');">
+身份证-2</a>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','45ada8a7-ef0a-464f-a0c3-1f763dfdfa71');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144330_8267_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','45ada8a7-ef0a-464f-a0c3-1f763dfdfa71');">
+结婚证</a>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','01a7899b-aa70-48ba-87f7-27f14c449e4b');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144334_4757_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','01a7899b-aa70-48ba-87f7-27f14c449e4b');">
+户口簿-1</a>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','d8258b84-ad5b-48b1-ac2a-88a34a8c3c18');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144336_4267_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','d8258b84-ad5b-48b1-ac2a-88a34a8c3c18');">
+户口簿-2</a>
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','72956c55-ed68-4a72-a5e1-e889a0bf0de7');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144340_4537_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','72956c55-ed68-4a72-a5e1-e889a0bf0de7');">
+房产现场-1</a>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','5d81286a-fe75-4905-9f2b-f502a560c0c1');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144342_6677_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','5d81286a-fe75-4905-9f2b-f502a560c0c1');">
+房产现场-2</a>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','7fcb3d4a-e01d-45d2-9ac5-e80b14dbc50f');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144344_7767_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','7fcb3d4a-e01d-45d2-9ac5-e80b14dbc50f');">
+房产现场-3</a>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','5d58e263-e9de-48b2-a064-8078a31c90f8');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144348_6097_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','5d58e263-e9de-48b2-a064-8078a31c90f8');">
+房产证</a>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','1d530f2a-c736-457c-8709-f14ddddfd615');">
+<img src="//image.tuandai.com/MiniProject/201701/20170104144353_1717_S.jpg" /></a>
+</div>
+<div class="title">
+<a href="javascript:openImage('e7d64798-a6f3-41b4-a1b6-66cae282c738','1d530f2a-c736-457c-8709-f14ddddfd615');">
+抵押回执</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<a class="next"></a><a class="prev"></a>
+<div class="hd">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</dd>
+</dl>
+<dl class="clearfloat" style="margin:20px 0 0  0px;">
+<dt class="ensure_t04"></dt>
+<dd>
+<h4>风险告知</h4>
+<p>市场有风险 投资需谨慎 【<a href="http://news.tuandai.com/about_us/guarantee.aspx?mark=1" target="_blank" style="color: #ff7800; text-decoration:underline ;">查看团贷安全保障计划</a>】、查看<a href="/member/contract/RiskWarningContract.html" style="color:#ff7800 ;" target="_blank">《风险揭示书》</a></p>
+</dd>
+</dl>
+</div>
+<div class="bid_invest_main clearfloat a2" id="a2" name="a2">
+<div class="staging_info_box clearfloat">
+<h3>基本信息</h3>
+<ul class="staging_blist clearfloat">
+<li>昵称：<label id="borrow_NickName"></label></li>
+<li>年龄<span id="spUserType"></span>：<label id="borrow_Age"></label></li>
+<li>手机号：<label id="borrow_TelNo"></label></li>
+<li>性别：<label id="borrow_Sex"></label></li>
+<li>注册时间：<label id="borrow_AddDate"></label></li>
+<li>所在地：<label id="borrow_BankCity"></label></li>
+</ul>
+</div>
+<div class="staging_info_box clearfloat">
+<h3>审核信息</h3>
+<div class="staging_certifia clearfloat">
+<p class="staging_verify01">
+<span></span><i>身份认证</i>
+</p>
+<p class="staging_verify02">
+<span></span><i>手机认证</i>
+</p>
+<p class="staging_verify05">
+<span></span><i>实地认证</i>
+</p>
+<p class="staging_verify03">
+<span></span><i>邮箱认证</i>
+</p>
+</div>
+</div>
+<div class="staging_info_box clearfloat">
+<h3>借入记录</h3>
+<table width="780" align="right" border="0" class="borrowIntab">
+<tr>
+<th>项目
+</th>
+<th>最近一个月
+</th>
+<th>最近半年
+</th>
+<th>最近一年
+</th>
+<th>历史合计
+</th>
+</tr>
+<tr>
+<td class="bg_f9f9f9">成功借入
+</td>
+<td>
+<label id="oneMonthSuccess">0</label> 份
+</td>
+<td>
+<label id="sixMonthSuccess">0</label> 份
+</td>
+<td>
+<label id="twelveMonthSuccess">0</label> 份
+</td>
+<td>
+4500
+份
+</td>
+</tr>
+<tr>
+<td class="bg_f9f9f9">成功还款
+</td>
+<td>
+<label id="oneMonthCys">0</label> 份
+</td>
+<td>
+<label id="sixMonthCys">0</label> 份
+</td>
+<td>
+<label id="twelveMonthCys">0</label> 份
+</td>
+<td>
+0
+份
+</td>
+</tr>
+<tr>
+<td class="bg_f9f9f9">逾期违约
+</td>
+<td>
+<label id="oneMonthOver">0</label> 份
+</td>
+<td>
+<label id="sixMonthOver">0</label> 份
+</td>
+<td>
+<label id="twelveMonthOver">0</label> 份
+</td>
+<td>
+0
+份
+</td>
+</tr>
+<tr>
+<td class="bg_f9f9f9">累计利息成本
+</td>
+<td>
+13%
+</td>
+<td>
+13%
+</td>
+<td>
+13%
+</td>
+<td>
+13%
+</td>
+</tr>
+<tr>
+<td class="bg_f9f9f9">逾期还款率
+</td>
+<td>
+<label id="oneMonthBadrate">0</label>%
+</td>
+<td>
+<label id="sixMonthBadrate">0</label>%
+</td>
+<td>
+<label id="twelveMonthBadrate">0</label>%
+</td>
+<td>
+0.00%
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="bid_content_box a3" id="a3" name="a3">
+<table width="100%" align="center" class="bid_records">
+<tr id="Subscribelist">
+<th style="width: 60px;">序号
+</th>
+<th style="width: 20%;">投标人
+</th>
+<th style="width: 20%;">投标金额
+</th>
+<th style="width: 25%;">投标方式
+</th>
+<th>投标时间
+</th>
+</tr>
+</table>
+<div id="divPagination" totalcount="0">
+</div>
+</div>
+<div class="bid_content_box a4" id="a4" name="a4">
+<table width="100%" align="center" class="bid_repay">
+<tr>
+<td>借入：<span class="c_ff6600">900,000.00
+元</span>
+</td>
+<td>需还本息：<span class="c_ff6600"><span id="duerepayAmount2"></span>元 </span>(12期)
+</td>
+<td>已还份数：<span class="c_ff6600">0份</span>
+</td>
+<td>已还金额：<span class="c_ff6600"><label id="repayedAmount">0.00</label>元</span>
+</td>
+<td>待还本息：<span class="c_ff6600"><label id="duerepayAmount">0.00</label>元</span>
+</td>
+<td>逾期：<span class="c_ff6600"><label id="overdueAmount">0.00</label>元</span>
+</td>
+</tr>
+</table>
+<table width="100%" align="center" class="bid_records">
+<tr id="subscribedetaillist">
+<th style="width: 60px;">序号
+</th>
+<th style="width: 20%;">还款日期
+</th>
+<th style="width: 20%;">还款金额
+</th>
+<th>本金+利息
+</th>
+<th style="width: 20%;">还款状态
+</th>
+</tr>
+</table>
+<div id="divDetailPagination" totalcount="0">
+</div>
+</div>
+<div class="riskbox dissolve">
+<div class="riskboxclose">
+<a href="javascript:void(0);" onclick="closerisk();">
+<img src="//js.tuandai.com/images/investlist/invest_detail/staging_close.gif" /></a>
+</div>
+<div class="riskmain_box clearfloat">
+<div class="risk_detail">
+本项目由团贷网珠海分公司提供，由珠海分公司实地调查核实借款人各项资料后，报备东莞总部复审，总部复审通过后发标融资。珠海市俊融资产管理有限公司坐落于珠海市香洲区九洲大道西富华里中海大厦B座5楼。
+</div>
+<div class="risk_imgbox">
+<div class="riskpicScroll">
+<div class="bd">
+<ul class="picList">
+</ul>
+</div>
+<div class="hd">
+<a class="next"></a>
+<ul style="width: 0px;">
+</ul>
+<a class="prev"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mask hidden">
+</div>
+<div class="footer fix">
+<div class="footer-content auto fix cl">
+<div class="fix">
+<div class="park-1   l fix">
+<div class="text l">
+<dl>
+<dt>新手帮助</dt>
+<dd>
+<a rel="nofollow" href="http://hd.tuandai.com/web/newhand/classroom.aspx?tdsource=pcnewguide">新手指引</a>
+</dd>
+<dd>
+<a rel="nofollow" href="http://info.tuandai.com/help/index.html">帮助中心</a>
+</dd>
+<dd>
+<a rel="nofollow" href="http://info.tuandai.com/help/list.html?mark=70">资费介绍</a>
+</dd>
+</dl>
+</div>
+<div class="text l">
+<dl>
+<dt>安全保障</dt>
+<dd>
+<a rel="nofollow" href="http://news.tuandai.com/about_us/laws.aspx?mark=18">法律法规</a>
+</dd>
+<dd>
+<a rel="nofollow" href="http://news.tuandai.com/about_us/guarantee.aspx?mark=1">安全保障</a>
+</dd>
+<dd>
+<a rel="nofollow" href="http://news.tuandai.com/about_us/partners.aspx?mark=13">合作机构</a>
+</dd>
+</dl>
+</div>
+<div class="text l">
+<dl>
+<dt>如何投资</dt>
+<dd>
+<a target="_blank" href="/article/">投资资讯</a>
+</dd>
+<dd>
+<a target="_blank" href="http://ask.tuandai.com/">团贷问答</a>
+</dd>
+<dd>
+<a target="_blank" href="http://baike.tuandai.com">团贷百科</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="park-2 l"></div>
+<div class="park-3 l">
+<div class="p-nm fa f40 g-orange2">400-6410-888</div>
+<div class="server-time mt5">客服热线（服务时间：9:00-22:00）</div>
+<div class="server-icon rel">
+<div class="mail-int-box" style="display: none">
+<div class="mail-int   tl">
+<i class="arrow arrow-int abs icon"></i>
+<div class="f12 b g3">客服邮箱：</div>
+<div class="f12">
+<a>kefu@tuandai.com</a>
+</div>
+</div>
+</div>
+<a class="online icon" href="http://www.sobot.com/chat/pc/index.html?sysNum=20ab7dce1e3346e8b90b649bd8baf591" target="_blank" title="在线服务" rel="nofollow"></a>
+<a class="mail icon c-poi" onmouseover="showServers('.mail','.mail-int-box') "></a>
+</div>
+</div>
+</div>
+<div class="address fa f12 tc mt15">
+2010-
+2017 版权所有 © 团贷网
+<a href="http://www.miitbeian.gov.cn" target="_blank" rel="external nofollow">粤ICP备12043601号-1</a> <span style="width: 18px; height: 21px; vertical-align: middle; margin-left: 5px; margin-right: 5px; display: inline-block; background: url(//js.tuandai.com/images/default/links.png?v=20160629001) no-repeat; background-position: -523px -375px"></span>
+<a rel="external nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44190002000538" target="_blank">粤公网安备44190002000538号</a>&nbsp;东莞团贷网互联网科技服务有限公司 地址：东莞市南城街道莞太路111号民间金融大厦1号楼28楼
+</div>
+</div>
+<div class="security tc">
+<a class="case1" rel="external nofollow" href="http://www.beianbeian.com/beianxinxi/2a7b35bf-b598-4dbf-b407-49c6dfae1d23.html" target="_blank"></a>
+<a class="case2" rel="external nofollow" href="http://www.gddg110.gov.cn/publicfiles/business/htmlfiles/dgjch/index.htm" target="_blank"></a>
+<a class="case3" rel="external nofollow" href="http://v.pinpaibao.com.cn/authenticate/cert/?site=www.tuandai.com&at=business" target="_blank"></a>
+<a class="case4" rel="external nofollow" href="https://ss.knet.cn/verifyseal.dll?sn=e12110944190036882000000&ct=df&a=1&pa=0.3762240521682825" target="_blank"></a>
+<a class="case5" rel="external nofollow" href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1581384531" target="_blank"></a>
+<a class="case6" rel="external nofollow" href='https://search.szfw.org/cert/l/CX20150126006876006576' target='_blank'></a>
+<a class="case7" rel="external nofollow" href='/gys.aspx' target='_blank'></a>
+<a class="case8" rel="external nofollow" id="_pingansec_bottomimagesmall_p2p" href="http://si.trustutn.org/info?sn=260150522000147261072"></a>
+</div>
+</div>
+<div class="tool">
+<div class="t-box rel" onclick="javascript:void(0);">
+<div class="dan-tip abs tc" style='display: none'>市场有风险投资需谨慎<span class="triangle db"></span></div>
+<i class="t6"></i>
+<a href="javascript:;">风险提示</a>
+</div>
+<div class="t-box" onclick="javascript:window.open('http://www.sobot.com/chat/pc/index.html?sysNum=20ab7dce1e3346e8b90b649bd8baf591');">
+<i class="t1"></i>
+<a href="javascript:;">在线客服</a>
+</div>
+<div class=" t-box" onclick="javascript:window.open('http://info.tuandai.com/help/index.html');">
+<i class="t2"></i>
+<a href="javascript:;">帮助中心</a>
+</div>
+<div class=" t-box" onclick="javascript:window.open('http://news.tuandai.com/tool/int_fina.aspx');">
+<i class="t3"></i>
+<a class="" href="javascript:;">计算工具</a>
+</div>
+<div class="t-box to-top" onclick="javascript:;" style="display: none">
+<i class="t5"></i>
+<a href="javascript:;" class="pt10">回到顶部</a>
+</div>
+</div>
+<div id="login-window" style="display: none" class="z103">
+<div class="title">
+您尚未登录 <i class="close icons close-x icon abs"></i>
+</div>
+<div class="body">
+<div class="text">
+<span>还没有账号？ <a rel="nofollow" class="reg-btn" href="/user/Register.aspx">立即注册</a></span>登录
+</div>
+<div class="form rel">
+<p class='rel txtUser-box'>
+<input class="input-text" type="text" onpaste="return false" oncontextmenu="return false" oncopy="return false" oncut="return false" name="txtUser" value='用户名/手机号/邮箱' id="txtUser" placeholder="" />
+<span class='reg-tip abs' id="err_name" style='display: none'>请输入用户名</span>
+<p class="tips user-err  ">
+<i class="tip-icon icons"></i>
+</p>
+</p>
+<p class='rel txtPwd-box'>
+<span class='psw-tip abs'>密码</span>
+<input class="input-text" type="password" onpaste="return false" oncontextmenu="return false" oncopy="return false" oncut="return false" name="txtPwd" placeholder="" id="txtPwd" value="" />
+<span class='reg-tip  abs' id="err_pwd" style='display: none;'>请输入密码</span>
+<p class="tips psw-err  " style="height: 30px;">
+<i class="tip-icon icons"></i>
+</p>
+</p>
+</div>
+<div class="mark">
+<a rel="nofollow" href="/user/ResetPwd_Telno.aspx">忘记密码？</a>
+<label>
+<input type="checkbox" id="cbRememberMe" name="rememberme" class="mark-icon icons" />记住账号</label>
+</div>
+<a href="javascript:LoginSubmit(this,'');" class="login-btn mb15">登录</a>
+<div class="protect-green tc ">
+<font target="_blank">您的账户信息已使用SSL加密技术，数据传输安全
+</font>
+</div>
+</div>
+</div>
+<div id="layer" style="display: none;"></div>
+<div id="td-art" style="display:none">
+<div class="art-body">
+<i class="close icons close-x icon abs" style="top: -30px; right: -32px;"></i>
+<div id="recharge-art" class="recharge-art">
+<div class="left">
+<p id="art_UserName">
+</p>
+<p id="art_ProjectAmount">
+</p>
+<p id="art_ReTime">
+</p>
+<p id="art_Rate">
+</p>
+<p id="txtLowerUnit">
+</p>
+<p id="art_ReType">
+</p>
+<div class="reward" id="art_PublicRate">
+<p>
+<i class="i-1"></i>发标人投标奖励【无】
+</p>
+<p class="padding-bottom-0">
+<i class="i-2"></i>团贷网投标奖励【无】
+</p>
+</div>
+</div>
+<div class="right">
+<a rel="nofollow" href="/member/Bank/Recharge.aspx" target="_blank" class="charge">去充值</a>
+<p>
+可用余额：<span class="font-000" id="art_UserFund"></span>
+</p>
+<p id="txtMaxUnit1">
+</p>
+<p>
+应付金额：<span class="font-orange font-bold" id="txtInvestAmount"></span>
+</p>
+<p id="p_Expected">
+预期收益：<span class="font-orange font-bold" id="txtExpected"></span>
+</p>
+<div class="invent-form">
+<div class="form-box">
+<input type="text" class="input-text" id="txtUnit" value="1" maxlength="10" onpaste="return false" oncontextmenu="return false" oncopy="return false" oncut="return false" />份
+</div>
+<i class="top" id="btnPlus"></i><i class="bottom" id="btnMinus"></i>
+<a href="javascript:void(0)" id="AllInvest">全额</a>
+</div>
+<a target="_blank" class="invent-btn" id="PostData" style="cursor:pointer;">立即投资</a>
+<input type="hidden" id="hiDeadline" />
+<input type="hidden" id="hiInterestRate" />
+<input type="hidden" id="hiRepaymentType" />
+<input type="hidden" id="hiProjectType" />
+<input type="hidden" id="hiUnit" />
+<input type="hidden" id="txtPublicRate" />
+<input type="hidden" id="txtTuandaiRate" />
+<input type="hidden" id="hiNeedPassWord" />
+<input type="hidden" id="hiTotalInvest " />
+<input type="hidden" id="hiCanGetPackage " />
+<input type="hidden" id="hiNeedInvest " />
+<input type="hidden" id="hiIsNewUser " />
+<input type="hidden" id="hiIsAwardOverdue " />
+<input type="hidden" id="hiAreaInvest " />
+<input type="hidden" id="hiIsScribeTanfer" />
+<input type="hidden" id="hiProjectDeadline" />
+<input type="hidden" id="hiNewHandRate" />
+<input type="hidden" id="hiHQBAmount" />
+<input type="hidden" id="hiDeadType" />
+<div class="agreement f12  font-666" id="AgreeDiv"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="dial-window" style="display: none;" class="z103">
+<div class="title">
+加载中 <i class="close close-x icon abs"></i>
+</div>
+<div class="body">
+<img src="//js.tuandai.com/images/default/loading.gif" alt="加载中" />
+</div>
+<div id="dial-window-btns" class="btns tc">
+<a href="javascript:void(0)" class="td-btn-1 td-btn-1-or dete " id="dial-window-okbtn">确定</a>
+<a href="javascript:void(0)" class="td-btn-1 td-btn-1-gar  cancle " id="dial-window-canclebtn">取消</a>
+</div>
+</div>
+<a id="tt_link" style="display: none;">bank</a>
+<div id="diallayer" style="display: none;"></div>
+<div style="display: none;" class="dial-window xm-window passwordAlt">
+<div class="title1 rel">温馨提示：<i class="close-x cgt-close-x icon db abs"></i></div>
+<div class="body">
+<div class="">
+<p class="p1">开启自动投标前，请您先进行以下授权：</p>
+<p class="p2" id="mm_toubiao"><em></em>自动投标<span>（适用于设置自动投标的用户）</span></p>
+<p class="p2" id="mm_zhaiquan"><em></em>自动购买债权<span>（适用于购买WE计划的用户）</span></p>
+<p class="p2" id="mm_huankuan"><em></em>自动还款<span>（适用于有借款的用户）</span></p>
+<p class="p2" id="mm_tixian"><em></em>自动提现<span>（适用于企业及业务相关用户）</span></p>
+</div>
+</div>
+<div class="bottom">
+<div class="btn-group">
+<a target="_blank" id="btn_showquan" class="btn">立即开通</a>
+</div>
+</div>
+</div>
+<div class="xm-mask" style="display: none;"></div>
+<div class="xiamen-pop" style="display: none;">
+<div class="close"></div>
+<div class="pop-tit">
+<h3></h3>
+<h4>团贷网联手厦门银行</h4>
+<p>个人账户升级为厦门银行存管账户</p>
+</div>
+<div class="pop-body">
+<p><span id="sp_open" style="display: none;">您尚未开通厦门银行资金存管账户，请先开通</span><span id="sp_active" style="display: none;">您的账号已升级为厦门银行资金存管账户，请您激活账户</span></p>
+<a href="/member/Bank/XM_BankBind.aspx" id="aOpen" class="btn">马上开通</a>
+<a href="javascript:void(0);" target="_blank" id="aActived" class="btn">马上激活</a>
+<a href="/member/Bank/XM_BankBind_Complete.aspx" id="aBankBind" class="btn">绑定银行卡</a>
+</div>
+</div>
+<div id="bankBindAlert" style="display: none;" class="dial-window xm-window bankBindAlert">
+<div class="title rel">温馨提示：<i class="close-x cgt-close-x icon db abs"></i></div>
+<div class="body">
+<div class="" style="text-align: center;">
+<p class="p1">请您在新打开的页面完成<span id="sp_title"></span></p>
+<p class="p2"><span id="sp_title2"></span>完成前请不要关闭此窗口，根据完成结果，选择下面的操作</p>
+</div>
+</div>
+<div class="bottom">
+<div class="btn-group">
+<a href="javascript:void(0);" id="remind_aa" class="btn"><span id="aa_title"></span></a>
+</div>
+<a class="question" href="javascript:void(0);" target="_blank"><span id="sp_title3"></span>遇到问题</a>
+</div>
+</div>
+<div id="gangaoAlert" style="display: none;" class="dial-window xm-window hongkong">
+<div class="title rel">温馨提示：<i class="close-x cgt-close-x icon db abs"></i></div>
+<div class="body">
+<div class="" style="text-align: center;">
+<p><b>由于您的证件为<span id="sp_cardTypeName">港澳通行证</span>，您还需完成以下操作才能进行正常理财：</b></p>
+<p>
+1、添加专属服务<a id="a_qq" target="_blank"><span id="span_qq"></span></a>为好友。<br>
+2、<span id="sp_2Content">QQ联系客服专员，提交以下申请材料：手持港澳台通行证证件彩色半身照【保<br>
+证证件号码清晰且不能是镜面照】港澳台通行证背面彩色照片,受理时间为：周一至周五9:00-12:00 13:30-18:00，周六日与法定节假日除外。</span><br>
+3、资料提交后，平台及银行将会进行双重审核，一般时长为2天，审核通过后即可进行投资理财，届时会有短信通知。<br />
+4、若已提交过资料给客服，则不需要重复提交，且可进行正常投资理财。
+</p>
+</div>
+<div class="bottom">
+<div class="btn-group">
+<a id="hkBtn" href="javascript:;" class="btn">我知道了</a>
+</div>
+</div>
+</div>
+</div>
+<div id="TheadAlert" style="display: none;" class="dial-window xm-window forgetPhone">
+<div class="title rel" style="display: block;">温馨提示：<i class="close-x cgt-close-x icon db abs"></i></div>
+<div class="body">
+<div class="">
+<p class="p1"><span id="sp_newcontent">如果您忘记银行卡预留手机号，请与您的发卡银行客服联系，咨询预留手机号</span></p>
+</div>
+</div>
+<div class="bottom">
+<div id="btn_03" class="btn-group">
+<a id="qiyeBtn" href="javascript:;" class="btn">我知道了</a>
+</div>
+<div id="btn_04" class="count" style="display: none;">
+<a class="td-btn-1 td-btn-1-or btn" href="/member/Validate/index.aspx">我要修改预留手机号</a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        var isWePlanProject = false; //标记是否在We计划详情页
+        var IsOpenCGT = '1';//是否开通存管通
+        var isOpenCgtSub = '1';//是否开启存管通申购
+        var isOpenCgtSubWe = '1';//是否开启存管通申购WE计划
+        var IsOpenCgtSubFtb = '1';//是否开启存管通申购复投宝
+    </script>
+<script type="text/javascript" src="//js.tuandai.com/scripts/jquery-1.7.2.min.js?v=2017022701"></script>
+<script type="text/javascript" src="//js.tuandai.com/scripts/thirdlib.js?v=2017022701"></script>
+<script type="text/javascript" src="//js.tuandai.com/scripts/public.js?v=2017022701"></script>
+<script type="text/javascript" src="//js.tuandai.com/scripts/default/project_dialog_cgt.js?v=2017022701"></script>
+<script charset="GB2312" type="text/javascript" src="//js.tuandai.com/scripts/cgt/cgt_common.js?v=20170308003"></script>
+<script type="text/javascript" src="//js.tuandai.com/scripts/jquery.pagination/jquery.pagination.js"></script>
+<script src="//js.tuandai.com/scripts/fastsoft/iframe/iframe.js?v=20150716001" type="text/javascript"></script>
+<script src="//js.tuandai.com/scripts/investlist/invest_common_new.js?v=20170118001" type="text/javascript"></script>
+<script src="//js.tuandai.com/scripts/investlist/invest_detail.js?v=20170118001" type="text/javascript"></script>
+<script src="//js.tuandai.com/scripts/investlist/zq_timedown.js" type="text/javascript"></script>
+<script src="//js.tuandai.com/scripts/investlist/srollBar/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="//js.tuandai.com/scripts/investlist/jquery.SuperSlide.2.1.1.js"></script>
+<script type="text/javascript">
+
+
+
+        $(".stages_slideBox").slide({ titCell: ".hd ul", mainCell: ".bd .ulWrap", autoPage: true, effect: "leftLoop", autoPlay: false, vis: 1 });
+        
+    </script>
+<script type="text/javascript">
+        var lowerunit=200.0000;
+        var rete=13.00;
+        var deadline=12;
+        var pId="e7d64798-a6f3-41b4-a1b6-66cae282c738";
+        var newHandRate = 0;
+        var _NewHandMax = 0;
+
+        jQuery(".riskpicScroll").slide({titCell:".hd ul",mainCell:".bd ul",autoPage:true,effect:"left",vis:1,trigger:"click",delayTime:500});
+
+        //定位scrollBox层始终在屏幕
+        function tools() {
+            var tabbarH = $(".top-bar").height() + 160 + $(".detail_logo_bg").height() + $(".position").height() + $(".bid_invest_inf").height();
+            var top = $(document).scrollTop();
+            if (($.browser.msie == true) && ($.browser.version == 6.0)) {
+                if (top > tabbarH) $(".bid_invest_nav").css({ position: "absolute", top: top - tabbarH });
+            } else {
+                if (top > tabbarH) {
+                    $(".bid_invest_nav").css({ position: "fixed", top: 0, left: 0 });
+                }
+
+            }
+            if (top <= tabbarH) {
+                $(".bid_invest_nav").css({ position: "static" });
+            }
+        }
+        $(function () {
+            window.onscroll = tools;
+            window.onresize = tools;
+        });
+
+        //*----滑动锚点
+        //tager 为元素
+
+        function getTager(tager) {
+            $('html,body').animate({ scrollTop: $(tager).offset().top - 60 }, 250);
+            return false;
+        }
+        //************************************************************************
+        $(window).bind("scroll", function () {
+            var scrollTop = document.documentElement.scrollTop + document.body.scrollTop;
+            if (scrollTop >= $(".a1").offset().top - 115 && scrollTop <= $(".a2").offset().top - 115) {
+                $(".bid_nav").each(function (i) {
+                    var Nnav = "n" + (i + 1) + "-selected";
+                    $(".bid_nav").removeClass(Nnav);
+                });
+                $('.n1').addClass("n1-selected");
+            }
+            else if (scrollTop >= $(".a2").offset().top - 115 && scrollTop <= $(".a3").offset().top - 115) {
+                $(".bid_nav").each(function (i) {
+                    var Nnav = "n" + (i + 1) + "-selected";
+                    $(".bid_nav").removeClass(Nnav);
+                });
+                $('.n2').addClass("n2-selected");
+            }
+            else if (scrollTop >= $(".a3").offset().top - 115 && scrollTop <= $(".a4").offset().top - 115) {
+                $(".bid_nav").each(function (i) {
+                    var Nnav = "n" + (i + 1) + "-selected";
+                    $(".bid_nav").removeClass(Nnav);
+                });
+                $('.n3').addClass("n3-selected");
+            }
+            else if (scrollTop >= $(".a4").offset().top - 115) {
+                $(".bid_nav").each(function (i) {
+                    var Nnav = "n" + (i + 1) + "-selected";
+                    $(".bid_nav").removeClass(Nnav);
+                });
+                $('.n4').addClass("n4-selected");
+            }
+        });
+
+        $(function () {
+            $(".bid_inf_question").hover(function () {
+                $(this).find(".bid_tipbox").show();
+            }, function () {
+                $(this).find(".bid_tipbox").hide();
+            });
+
+            //登录状态下获取借款人信息
+            getBorrowUserInfo('5e5103b4-7fed-46b2-80a4-6128a468908a', 'e7d64798-a6f3-41b4-a1b6-66cae282c738');
+            getRepayedMsg('e7d64798-a6f3-41b4-a1b6-66cae282c738');
+        });
+
+        function MaxInvest() {
+            if (!isCookieLogin()) {
+                fnLogin();
+            } else {
+                $("#jiek_Share").val('0');
+                Calculate(1);
+            }
+        }
+        //弹出风险
+        function showrisk(){
+            $(".riskbox").removeClass("dissolve");
+            $(".mask").removeClass("hidden");
+        }
+        //关闭
+        function closerisk(){
+            $(".riskbox").addClass("dissolve");
+            $(".mask").addClass("hidden");
+        }
+    </script>
+<script type="text/javascript">
+        (function () {   //红包下拉
+            try {
+                getRandomValue();
+            } catch (e) { }
+            $('.red-package-list').css({ 'margin-bottom': '-5px' });
+            $('.red-package-list').find('dt').click(function (event) {
+                $(this).parent().find('dd').slideDown(300);
+                event.stopPropagation();
+            })
+            $('.red-package-list').find('li').click(function () {
+                var thisVal = $(this).attr('data');
+                $(this).parents('.red-package-list').find('.data').text(thisVal);
+                $(this).find('dd').slideUp(300);
+            })
+            $(window).click(function (event) {
+                $('.red-package-list').find('dd').slideUp(300);
+            });
+        })();
+        (function () {
+            $('.member-list').hover(function () {
+                $(this).find('ul').addClass('ul-type').end().find('.mission').show();
+                $(this).find('.arrow').removeClass('down-arrow').addClass('up-arrow');
+            }, function () {
+                $(this).find('ul').removeClass('ul-type').end().find('.mission').hide();
+                $(this).find('.arrow').removeClass('up-arrow').addClass('down-arrow');
+            }
+        )
+        })();
+        function stringToHex(s) {
+            var r = '';
+            var hexes = new Array('0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f');
+            for (var i = 0; i < (s.length) ; i++) {
+                r += hexes[s.charCodeAt(i) >> 4] + hexes[s.charCodeAt(i) & 0xf]
+            }
+            return r
+        }
+
+        function HexTostring(s) {
+            var r = '';
+            for (var i = 0; i < s.length; i += 2) {
+                var sxx = parseInt(s.substring(i, i + 2), 16);
+                r += String.fromCharCode(sxx)
+            }
+            return r
+        }
+
+        var nwbi_userName = "";
+        var nwbi_sysNo = "TDW";
+        var IsLogin = isCookieLogin();
+        if (IsLogin) {
+            var nickname = jaaulde.utils.cookies.get("TDWUserName");
+            nwbi_userName = nickname;
+        }
+        (function () {
+            var ta = document.createElement('script');
+            ta.type = 'text/javascript';
+            ta.async = true;
+            ta.src = ((("https:") == document.location.protocol) ? "https://" : "http://") + 'bilog.niiwoo.com/js/webaccess.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ta, s);
+        })();
+
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?6dff67da4e4ef03cccffced8222419de";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</body>
+</html>
